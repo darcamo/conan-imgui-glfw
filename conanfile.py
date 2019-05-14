@@ -6,7 +6,7 @@ import glob
 
 class ImguisfmlConan(ConanFile):
     name = "imgui-glfw"
-    version = "1.69"  # Version of the imgui-library
+    version = "1.70"  # Version of the imgui-library
     license = "MIT"
     author = "Darlan Cavalcante Moreira (darcamo@gmail.com)"
     url = "https://github.com/darcamo/conan-imgui-glfw"
